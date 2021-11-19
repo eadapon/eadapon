@@ -1,10 +1,164 @@
-https://iptv-org.github.io/iptv/countries/ca.m3u
-https://iptv-org.github.io/iptv/countries/us.m3u
-https://iptv-org.github.io/iptv/categories/sports.m3u
-https://iptv-org.github.io/iptv/categories/movies.m3u
-https://iptv-org.github.io/iptv/categories/lifestyle.m3u
-https://iptv-org.github.io/iptv/categories/local.m3u
-https://iptv-org.github.io/iptv/categories/kids.m3u
-https://iptv-org.github.io/iptv/categories/entertainment.m3u
-https://iptv-org.github.io/iptv/categories/cooking.m3u
-https://iptv-org.github.io/iptv/categories/comedy.m3u
+#EXTM3U
+#EXTINF:-1,beIN SPORTS 1 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169705.m3u8
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169706.m3u8
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169707.m3u8
+#EXTINF:-1,beIN SPORTS 4 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169708.m3u8
+#EXTINF:-1,beIN SPORTS 5 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169709.m3u8
+#EXTINF:-1,beIN SPORTS 6 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169710.m3u8
+#EXTINF:-1,beIN SPORTS 7 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169711.m3u8
+#EXTINF:-1,beIN SPORTS 8 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169712.m3u8
+#EXTINF:-1,beIN SPORTS 9 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169713.m3u8
+#EXTINF:-1,beIN SPORTS 10 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169714.m3u8
+#EXTINF:-1,beIN SPORTS 11 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169715.m3u8
+#EXTINF:-1,beIN SPORTS 12 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169716.m3u8
+#EXTINF:-1,beIN SPORTS 13 FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/169717.m3u8
+#EXTINF:-1,BeinSportsHD 1 720
+http://iptvtool.es:9977/live/6W464643/Porranko1/169718.m3u8
+#EXTINF:-1,BeinSports HD 2 720p
+http://iptvtool.es:9977/live/6W464643/Porranko1/169719.m3u8
+#EXTINF:-1,BeinSports HD 3 720p
+http://iptvtool.es:9977/live/6W464643/Porranko1/169720.m3u8
+#EXTINF:-1,BeinSports HD 4 720p
+http://iptvtool.es:9977/live/6W464643/Porranko1/169721.m3u8
+#EXTINF:-1,BeinSports HD 5 720p
+http://iptvtool.es:9977/live/6W464643/Porranko1/169722.m3u8
+#EXTINF:-1,BeinSports HD 6 720p
+http://iptvtool.es:9977/live/6W464643/Porranko1/169723.m3u8
+#EXTINF:-1,BeinSports HD 7 720p
+http://iptvtool.es:9977/live/6W464643/Porranko1/169724.m3u8
+#EXTINF:-1,BeinSports HD 8 720p
+http://iptvtool.es:9977/live/6W464643/Porranko1/169725.m3u8
+#EXTINF:-1,BeinSports HD 9 720p
+http://iptvtool.es:9977/live/6W464643/Porranko1/169726.m3u8
+#EXTINF:-1,BeinSports HD 10 720p
+http://iptvtool.es:9977/live/6W464643/Porranko1/169727.m3u8
+#EXTINF:-1,beIN Sport 4 HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/151962.m3u8
+#EXTINF:-1,beIN Sport 5 HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/151965.m3u8
+#EXTINF:-1,beIN Sport 6 HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/151968.m3u8
+#EXTINF:-1,beIN Sport 7 HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/151971.m3u8
+#EXTINF:-1,beIN Sport 8 HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/151974.m3u8
+#EXTINF:-1,beIN Sport 9 HD
+#EXTINF:-1,USA| CNN HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24141
+#EXTINF:-1,USA| Fox News HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24140
+#EXTINF:-1,USA| MSNBC FHD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24139
+#EXTINF:-1,USA| ABC NEWS
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24138
+#EXTINF:-1,USA| CNBC
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24137
+#EXTINF:-1,USA| FOX BUSINESS FHD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24136
+#EXTINF:-1,USA| BLOOMBERG TV
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24135
+#EXTINF:-1,USA| ABC 7
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24134
+#EXTINF:-1,USA| beINSPORT N
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24108
+#EXTINF:-1,USA| ESPN 3
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24103
+#EXTINF:-1,USA| The Weather Channel
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24133
+#EXTINF:-1,USA|******MOVIES******|USA|
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24132
+#EXTINF:-1,USA| SHOWTIME SHOWCASE
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24120
+#EXTINF:-1,USA| Starz Cinema HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24118
+#EXTINF:-1,USA| FX TV HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24125
+#EXTINF:-1,USA| MoreMax HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24116
+#EXTINF:-1,USA| Lifetime Movies HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24117
+#EXTINF:-1,USA| 5 Star Max
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24114
+#EXTINF:-1,USA| ACTIONMAX HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24115
+#EXTINF:-1,USA| AMC HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24122
+#EXTINF:-1,USA| Cinemax East HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24113
+#EXTINF:-1,USA| CINEMAX HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24112
+#EXTINF:-1,USA| EL REY HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24111
+#EXTINF:-1,USA| TNT HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24123
+#EXTINF:-1,USA| HBO
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24131
+#EXTINF:-1,USA| HBO COMEDY HD
+http://siptv-online.com:8789/Jeanpaulgaut/825628/24130
+#EXTINF:-1,CAN:AMC (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3661
+#EXTINF:-1,CAN:BNN (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3662
+#EXTINF:-1,CAN:Bravo TV (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3663
+#EXTINF:-1,CAN:Canadian Arab TV (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3664
+#EXTINF:-1,CAN:Casa (M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3708
+#EXTINF:-1,CAN:CBC (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3665
+#EXTINF:-1,CAN:CBC Charlottetown (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3666
+#EXTINF:-1,CAN:CBC Federicton (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3667
+#EXTINF:-1,CAN:CBC Halifax (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3668
+#EXTINF:-1,CAN:CBC Ottawa (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3669
+#EXTINF:-1,CAN:CBC Regina (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3670
+#EXTINF:-1,CAN:CBC Toronto (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3671
+#EXTINF:-1,CAN:CBC Vancouver (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3672
+#EXTINF:-1,CAN:CBC Windsor (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3673
+#EXTINF:-1,CAN:CBC Winnipeg (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3674
+#EXTINF:-1,CAN:CHCH (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3675
+#EXTINF:-1,CAN:City (1080)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3676
+#EXTINF:-1,CAN:Comedy (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3677
+#EXTINF:-1,CAN:CP24 (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3678
+#EXTINF:-1,CAN:CPAC (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3679
+#EXTINF:-1,CAN:CTV News Live Events 3 (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3680
+#EXTINF:-1,CAN:CTV News Live Events 4 (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3683
+#EXTINF:-1,CAN:Discovery Science (M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3681
+#EXTINF:-1,CAN:Disney (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3682
+#EXTINF:-1,CAN:Disney JR (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3684
+#EXTINF:-1,CAN:Disney La Chaine (M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3709
+#EXTINF:-1,CAN:E! Entertainment (720)(M)
+http://tv.latintvweb.com:25461/OmarCruz/foev3rRNU2/3685
